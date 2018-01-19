@@ -1,0 +1,24 @@
+{
+    "name": "jorge/composer_mpdf",
+    "description": "projeto para testar a mpdf e monolog com o composer",
+    "type": "project",
+    "require": {
+        "mpdf/mpdf": "7.0.2",
+        "composer/composer": "1.5.5",
+        "twbs/bootstrap": "^3.3@dev",
+        "monolog/monolog": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Jorge Mendes",
+            "email": "jorge.mendesx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"App\\": "App/"}
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}

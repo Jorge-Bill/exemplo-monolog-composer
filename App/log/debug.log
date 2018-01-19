@@ -1,0 +1,37 @@
+[2017-12-20T17:22:37.051812+00:00] app.DEBUG: I am debug  
+[2017-12-20T17:22:37.052225+00:00] app.ERROR: I am error {"productId":123} 
+[2017-12-20T17:47:03.446193+00:00] app.DEBUG: I am debug  
+[2017-12-20T17:47:03.446422+00:00] app.ERROR: I am error {"teste":123} 
+[2017-12-20T17:49:30.318852+00:00] app.DEBUG: I am debug  
+[2017-12-20T17:49:30.319118+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:50:09.197684+00:00] app.DEBUG: I am debug  
+[2017-12-20T17:50:09.198098+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:50:39.459414+00:00] app.DEBUG: I am debug,  [null] 
+[2017-12-20T17:50:39.459679+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:50:40.549405+00:00] app.DEBUG: I am debug,  [null] 
+[2017-12-20T17:50:40.549693+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:50:41.045279+00:00] app.DEBUG: I am debug,  [null] 
+[2017-12-20T17:50:41.045540+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:50:41.290320+00:00] app.DEBUG: I am debug,  [null] 
+[2017-12-20T17:50:41.290660+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T17:51:03.467986+00:00] app.DEBUG: I am debug, ["senhaTeste"] 
+[2017-12-20T17:51:03.468286+00:00] app.ERROR: I am error ["nomeTeste"] 
+[2017-12-20T18:20:32.854589+00:00] app.DEBUG: I am debug, ["1"] 
+[2017-12-20T18:21:15.831705+00:00] app.DEBUG: I am debug, ["1","acao"] 
+[2017-12-20T18:21:32.090080+00:00] app.DEBUG: I am debug, [{"stdClass":{"id":"1","nome":"nomeTeste","email":"emailTeste","senha":"senhaTeste","perfil":"perfilTeste","foto":"fotoTeste","acao":"acao"}}] 
+[2017-12-20T18:27:18.672322+00:00] app.DEBUG: I am debug, sucess ["1"] 
+[2017-12-21T11:01:59.878343+00:00] app.DEBUG: I am debug, sucess ["1",["gerarPDF"]] 
+[2017-12-21T11:04:23.873056+00:00] app.DEBUG: I am debug, sucess [null,"jorge",["gerarPDF"]] 
+[2017-12-21T11:04:26.259228+00:00] app.DEBUG: I am debug, sucess [null,"jorge",["gerarPDF"]] 
+[2017-12-21T11:05:00.681485+00:00] app.DEBUG: I am debug, sucess ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:11:26.017402+00:00] app.ERROR: I am error, not success ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:11:38.105193+00:00] app.ERROR: I am error, not success ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:19:54.192392+00:00] app.DEBUG: I am debug, sucess ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:23:02.216849+00:00] app.DEBUG: I am debug, sucess ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:26:48.519648+00:00] app.DEBUG: I am debug, sucess ["1","jorge",["gerarPDF"]] 
+[2017-12-21T11:30:43.022204+00:00] app.DEBUG: I am debug, sucess ["1","jorge","gerarPDF"] 
+[2017-12-21T11:33:26.620004+00:00] app.DEBUG: I am debug, sucess ["1","jorge","gerarPDF"] 
+[2017-12-21T12:00:27.000813+00:00] app.DEBUG: I am debug, sucess ["1","jorge","gerarPDF"] 
+[Thu-Dec-2017] app.DEBUG: I am debug, sucess ["certo"] 
+[2017-12-21T20:42:59.740786+00:00] app.DEBUG: I am debug, sucess ["1","jorge","gerarPDF"] 
+[2017-12-21T20:43:39.496099+00:00] app.DEBUG: I am debug, sucess ["119","darth vader","gerarPDF"] 
